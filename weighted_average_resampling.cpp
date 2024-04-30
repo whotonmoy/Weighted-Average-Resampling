@@ -10,7 +10,7 @@ int main()
     // Input FileName name hard coded because I could not get it to cin the file name.
     // Input FileName must be changed in the code to the name of the input file to get the desired result
     const char* inputFileName = "museum.raw";
-    const char* outputFileName = "resized_picture_question2e.raw";
+    const char* outputFileName = "resized_picture.raw";
     int originalWidth, originalHeight, newWidth, newHeight;
 
     // Enter the size of the picture that is being used
