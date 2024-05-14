@@ -31,4 +31,4 @@ e) Input image filename: “museum.raw”
  New resolution: 160x120
 
 
-This was an assignment that I did in my second to last semester(Winter 2023) for Image Processing Course (CS 425).
+This was an assignment that I did in my second to last semester(Fall 2023) for Image Processing Course (CS 425).
